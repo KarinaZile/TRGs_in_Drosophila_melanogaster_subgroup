@@ -1,1 +1,1 @@
-# TRGs_in_Drosophila_melanogaster_subgroup
+This is the code for the paper "Only a single taxonomically restricted gene family in the _Drosophila melanogaster_ subgroup can be identified with high confidence".
